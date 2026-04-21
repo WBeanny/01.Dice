@@ -1,0 +1,1 @@
+{"name":"桌遊擲骰子模擬器","short_name":"Dice Simulator","description":"跨平台支援的桌上遊戲擲骰子模擬器","start_url":"/01.Dice/","display":"standalone","background_color":"#09090b","theme_color":"#09090b","lang":"en","scope":"/01.Dice/","icons":[{"src":"favicon.svg","sizes":"any","type":"image/svg+xml"}]}
